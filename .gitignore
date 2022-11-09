@@ -1,8 +1,7 @@
 HELP.md
 ProductManagement/target/
-ProductManagement/!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+ProductManagement/.mvn/
+ProductManagement/src/test/
 
 ### STS ###
 .apt_generated
@@ -20,7 +19,7 @@ ProductManagement/!.mvn/wrapper/maven-wrapper.jar
 *.ipr
 
 ### NetBeans ###
-ProductManagement/nbproject/private/
+ProductManagement/nbproject/
 ProductManagement/nbbuild/
 ProductManagement/dist/
 ProductManagement/nbdist/
